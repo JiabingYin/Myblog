@@ -16,7 +16,7 @@ public class BlogApplicationTests {
 
 	@Test
 	public void contextLoads() {
-
+		System.out.println("git");
 	}
 
 }
